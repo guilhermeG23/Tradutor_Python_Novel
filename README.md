@@ -12,6 +12,8 @@ Funcionamento somente garantida no Windows atualmente, para fazer funcionar no M
 * Python3
 * Tesserct
 
+Tem que instalar os dois programas no sistema para funcionar, além de adicionar ambos ao PATH do windows para facilitar a vida.
+
 #### Requeriments python
 
 * googletrans
